@@ -9,3 +9,24 @@
 # Kimba
 # Simba
 # Mustafa
+quit -sim
+# End time: 23:56:26 on May 26,2024, Elapsed time: 0:03:21
+# Errors: 0, Warnings: 0
+ do run.do
+# QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+# Start time: 23:56:28 on May 26,2024
+# vlog -reportprogress 300 -f sv.f 
+# -- Compiling package static_methods_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 23:56:28 on May 26,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -c -voptargs=""+acc"" top -l aa.log 
+# Start time: 23:56:28 on May 26,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading sv_std.std
+# Loading work.static_methods_sv_unit(fast)
+# Loading work.top(fast)
