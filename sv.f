@@ -1,2 +1,2 @@
-static_variables.sv
+static_methods.sv
 
